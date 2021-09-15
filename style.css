@@ -1,0 +1,52 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    
+    }
+    
+    .heading_div{
+        float:none;
+        background: white;
+        padding: 10px; 
+        border-radius: 20px;
+        color: black;
+        box-shadow:5px 5px 5px grey;
+    }
+    
+    .heading_div2 {
+    
+        font-size: 18px;
+    }
+    
+    span{
+    
+          visibility:visible;
+        }
+      
+      
+      
+      .heading_div:hover span{
+        visibility:hidden;
+      }
+
+
+      #footer {
+        text-align: center;
+        padding: 3px;
+        background-color: grey;
+        color: white;
+        position:fixed;bottom:0;left:0;right:0;height:30px;
+      }
+
+      #objectbutton{
+          background-color: red;
+          color:white;
+      }
+
+
+      #accuracybutton{
+        background-color: red;
+        color:white;
+    }
